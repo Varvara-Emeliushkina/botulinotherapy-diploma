@@ -17,10 +17,10 @@
 - **Build tools:** Maven/Gradle
 
 ## Структура репозитория
-backend/ # серверная часть (Spring Boot)
-mobile/ # мобильное приложение (Flutter)
-docs/ # документация, схемы
-README.md # этот файл
+backend/ # серверная часть (Spring Boot)  
+mobile/ # мобильное приложение (Flutter)  
+docs/ # документация, схемы  
+README.md # этот файл  
 
 ## Статус разработки
 Начало работы (февраль 2025)  
